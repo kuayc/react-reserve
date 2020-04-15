@@ -9,7 +9,7 @@
     "build": "next build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Chin Kuay",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.0",
